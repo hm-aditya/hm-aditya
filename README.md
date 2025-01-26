@@ -1,17 +1,17 @@
-# Hi there, I'm Aditya Patil! 👋  
+# Hi there, I'm Aditya Patil! 👋 
+![Profile Views](https://komarev.com/ghpvc/?username=hm-aditya&color=blue)
 ### Building Scalable Application with ❤️
 
-![Profile Views](https://komarev.com/ghpvc/?username=hm-aditya&color=blue)
+## [Portfolio](https://hmaditya.vercel.app/)
+
+### [Buy Me a Coffee ☕](https://buymeacoffee.com/hm_aditya)
+
 
 ## 🚀 About Me
 I'm a passionate Full Stack Developer with experience in building dynamic and interactive web applications.
+
+## [Connect with me](https://bento.me/hm-aditya)
 <br/>
-<h3 align="left">Connect with me:</h3>  
-<p align="left">
-<a href="https://twitter.com/https://x.com/hm__aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/hm__aditya" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aditya-patil-893808274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-patil-893808274/" height="30" width="40" /></a>  
-<a href="https://instagram.com/hm_aaditya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya patil" height="30" width="40" /></a>  
-</p>
 
 ## 🛠️ Skills
 
